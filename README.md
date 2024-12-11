@@ -1,6 +1,8 @@
 # fmp_project
 Repository for 21M.587 Final Project
 
+This project tackles Automatic Pitch Detection according to "Polyphonic Pitch Detection by Matching Spectral and Autocorrelation Peaks" by Sebastian Kraft, Udo Zolzer. Some liberties were taken due to potential inaccuracies/lack of 'instruction' in the article.
+
 You will be running Python in Jupyter Notebooks. To do so, you will need Python 3.11 and a few Python modules. The recommended approach is to create an isolated environment for this project so as not to interfere with other Python modules that you've already on your computer. You will also need [numpy](https://numpy.org/install/) and [matplotlib](https://matplotlib.org/stable/install/index.html) installed. 
 
 # Setup with Miniconda
