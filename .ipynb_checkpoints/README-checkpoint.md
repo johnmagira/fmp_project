@@ -25,7 +25,3 @@ This should print 3.11.x (doesn't matter what x is).
 # Running project
 
 Clone the repository onto your local machine. Make sure that you are in the `fmp_project` environment everytime you run this project. Choose the audio file you want to use and then run All Cells. Will take a while to run, but use the last graph shown to see what the detected pitches were
-
-# Future steps
-
-Instead of having hard coded reference tracks, I could work towards interpreting the MIDI files as reference tracks to compare my spectral detected notes against.
